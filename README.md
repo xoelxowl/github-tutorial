@@ -66,6 +66,11 @@ merge시 원하는 메시지를 입력한다. 그 후 이메일을 확인하고 
 merge 완료 후에는 Delete branch를 이용하여 pr을 마무리 한다
 ![No Image](/images/merge_3.png)
 
+## close issue
+merge가 완료된 후에는 생성했던 issue를 close 한다  
+![No Image](/images/close_issue_1.png)
+![No Image](/images/close_issue_2.png)
+
 ## upstream 추가
 로컬의 master branch와 개인 repository의 master branch의 최신화를 위해 upstream 을 remote에 추가한다
 ![No Image](/images/upstream.png)
