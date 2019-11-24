@@ -4,3 +4,4 @@
 | 라구원 | 개발    | laggu91@gmail.com |
 | 박예훈 | 개발    | cru6548@gmail.com |
 | 최용주 | AI    | dydwn0928@gmail.com |
+| 이경현 | 개발    | xpelxowl@naver.com |
